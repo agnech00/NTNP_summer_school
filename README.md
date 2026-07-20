@@ -5,4 +5,5 @@ Installation requirements:
 numpy, scipy, matplotlib, numba, functools
 
 The file deuteron_data.txt is used to reconstruct the deuteron wave function.
-I will add the solutions on Tuesday evening after the end of the last exercitation session.
+
+The FF_exercise_2.pinby contains already the currents implemented. You just need to obtain the reduced matrix elements of the multipole operators. 
